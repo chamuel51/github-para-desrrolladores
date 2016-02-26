@@ -2,4 +2,4 @@
 
 
 github para desarroladores
-[visita la pagina](google.com.do)
+[visita la pagina] (http://google.com.do)
